@@ -24,11 +24,10 @@
 
         import java.util.HashMap;
         import java.util.Map;
-
+//esta bien
 public class AnfitrionLoginActivity extends AppCompatActivity {
     private FirebaseAuth mAuth;
     private FirebaseAuth.AuthStateListener firebaseAuthListener;
-
     private EditText mCorreoLogin, mContrasenaLogin, mCorreoRegis, mContrasenaRegis,mUserameRegis
             , mDireccionRegis, mTelefonoRegis, mGeneroRegis, mNombreRegis;
 
