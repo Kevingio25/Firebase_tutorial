@@ -24,7 +24,7 @@
 
         import java.util.HashMap;
         import java.util.Map;
-//esta bien
+//el bueno
 public class AnfitrionLoginActivity extends AppCompatActivity {
     private FirebaseAuth mAuth;
     private FirebaseAuth.AuthStateListener firebaseAuthListener;
