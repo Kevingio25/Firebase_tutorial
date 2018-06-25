@@ -38,6 +38,7 @@ public class AnfitrionLoginActivity extends AppCompatActivity {
         setContentView(R.layout.activity_anfitrion_login);
 
         //estas lineas se inicializan liganolas con el edit text de la IU
+
         mCorreoLogin = (EditText) findViewById(R.id.correoLogin);
         mContrasenaLogin = (EditText) findViewById(R.id.contrasenaLogin);
         mCorreoRegis = (EditText) findViewById(R.id.correoRegis);
